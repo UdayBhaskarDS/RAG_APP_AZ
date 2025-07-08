@@ -1,0 +1,28 @@
+https://github.com/UdayBhaskarDS/RAG-Application.git
+
+
+echo "# RAG-Application" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/UdayBhaskarDS/RAG-Application.git
+git push -u origin main
+
+
+
+Create git repo:
+git config --global user.name "udaybhaskarDS"
+udaybhaskar@91
+git config --global user.email "udaydataanalytics@gmail.com"
+
+
+
+
+git remote add origin https://github.com/UdayBhaskarDS/RAG-Application.git
+git branch -M main
+git push -u origin main
+
+git pull -u origin main
+
+
