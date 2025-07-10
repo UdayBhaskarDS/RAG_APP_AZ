@@ -41,7 +41,7 @@ st.set_page_config(
 
 
 # --- Header ---
-st.html("""<h2 style="text-align: center;">📚🔍 <i> My RAG Based Conversational Chatbot </i> 🤖💬</h2>""")
+st.html("""<h2 style="text-align: center;">📚🔍 <i> RAG Based Conversational Chatbot </i> 🤖💬</h2>""")
 
 
 # --- Initial Setup ---
